@@ -7,4 +7,3 @@ for i in range(0,len(rnum)-1):
     else:
           sum+= characters[rnum[i]]
 print(sum+characters[rnum[-1]]) 
-
