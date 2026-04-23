@@ -6,4 +6,4 @@ for i in range(0,len(rnum)-1):
             sum -= characters[rnum[i]]
     else:
           sum+= characters[rnum[i]]
-print(sum+characters[rnum[-1]]) 
+print(sum+characters[rnum[-1]])
